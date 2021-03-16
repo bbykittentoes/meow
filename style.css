@@ -1,0 +1,21 @@
+body {
+	background-color:salmon;
+}
+
+.greeting {
+	background-color:cyan;
+	border:10px dotted teal;
+	color:purple;
+	padding:30px;
+	width:60px;
+	margin:150px;
+}
+
+.parting {
+	background-color:teal;
+	color:lavender;
+	border:10px dotted cyan;
+	padding:30px;
+	width:60px;
+	margin:150px;
+}
