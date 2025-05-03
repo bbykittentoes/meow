@@ -1,6 +1,6 @@
 function myCoolFunction() {
 	let target = document.getElementsByClassName('greeting')[0];
-	target.innerHTML = "goodbye.";
+	target.innerHTML = "goodbye!";
 }
 
 function samebutdiff() {
